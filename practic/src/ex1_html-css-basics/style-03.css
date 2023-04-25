@@ -1,0 +1,12 @@
+.frame1 {
+    border: 2px solid black;
+    padding: 20px;
+  }
+  .frame2 {
+    box-shadow: 0 0 0 2px black;
+    padding: 20px;
+  }
+  .frame3 {
+    outline: 2px solid black;
+    padding: 20px;
+  }
